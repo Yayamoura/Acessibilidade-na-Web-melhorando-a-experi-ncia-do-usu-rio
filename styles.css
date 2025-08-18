@@ -21,7 +21,7 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #9d48b3;
     font-weight: 600;
 }
 
@@ -102,7 +102,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #9d48b3;
 
 }
 
@@ -120,7 +120,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #ffffff;
+    background-color: #a078a1;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -131,14 +131,14 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #9d48b3;
     border: none;
     font-weight: bold;
 }
 
 /* chama classe do bootstrap para modificar a cor */
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #a078a1;
 }
 
 .menu-acessibilidade{
